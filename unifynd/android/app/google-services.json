@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724012031227",
+    "project_id": "unifynd-hoth",
+    "storage_bucket": "unifynd-hoth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724012031227:android:f0381876c02ecccdf4645e",
+        "android_client_info": {
+          "package_name": "com.example.unifynd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724012031227-mh2bvc2r34qnhm28d62u4bmf4j4bo7p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-WtnK5ko6FHh00pVAIA20nx0pXojC9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724012031227-mh2bvc2r34qnhm28d62u4bmf4j4bo7p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
